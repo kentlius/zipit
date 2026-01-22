@@ -1,4 +1,4 @@
-# Zipit
+# ZipIt
 
 API that downloads a file from a URL, compresses it into a `.zip`, and streams it directly to the client.
 
@@ -10,4 +10,4 @@ go run .
 
 ## Usage
 
-Simply paste the URL you want to zip directly after the server's address. `http://localhost:8080/<TARGET_URL>`
+Simply paste the encrypted url you want to zip directly after the server's address. `http://localhost:8080/<ENCRYPTED_URL>`
